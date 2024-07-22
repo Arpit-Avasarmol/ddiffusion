@@ -57,3 +57,10 @@ Navigate to the ./src/analysis/orca directory and compile orca.cpp:
 To run the code on qm9 dataset:
 
 **python3 main.py dataset=qm9**
+
+****************************************************************************
+
+For visualising the Results:
+
+It will ask you to create the account on w&b(wandb.ai), else if you have an existing account you can use the same.
+Create an API key on the w&b and paste the key in the terminal
